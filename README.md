@@ -1,2 +1,3 @@
 # bashaway2023
-Submissions for Bashaway 2023 organized by SLIIT FOSS Community
+Team: `' OR 1=1 --`
+ - Round 1: 2nd Place

@@ -1,0 +1,3 @@
+# ignore all the node_packages folders in every folder
+node_modules
+*.zip

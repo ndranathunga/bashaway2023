@@ -1,0 +1,1 @@
+git init; git config --global init.defaultBranch main; git add .; mkdir -p out; git log > out/commits.txt

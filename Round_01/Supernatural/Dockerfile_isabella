@@ -1,0 +1,3 @@
+FROM alpine:latest
+VOLUME /twilight
+CMD tail -f /dev/null
