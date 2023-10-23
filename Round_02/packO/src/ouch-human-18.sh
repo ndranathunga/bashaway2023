@@ -1,0 +1,1 @@
+echo "You just executed the ouch-human-18 script"

@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  laravel_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bashaway-2k23-perfect-dish
+    ports:
+      - "8001:80"
+
